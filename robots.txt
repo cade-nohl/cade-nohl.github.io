@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cade-nohl.neocities.org/sitemap.xml
