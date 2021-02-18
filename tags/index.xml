@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cade Nohl</title>
-    <link>https://cade-nohl.neocities.org/tags/</link>
+    <link>https://cade-nohl.github.io/tags/</link>
     <description>Recent content in Tags on Cade Nohl</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 17 Feb 2021 17:20:20 -0800</lastBuildDate><atom:link href="https://cade-nohl.neocities.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Feb 2021 17:20:20 -0800</lastBuildDate><atom:link href="https://cade-nohl.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>post</title>
-      <link>https://cade-nohl.neocities.org/tags/post/</link>
+      <link>https://cade-nohl.github.io/tags/post/</link>
       <pubDate>Wed, 17 Feb 2021 17:20:20 -0800</pubDate>
       
-      <guid>https://cade-nohl.neocities.org/tags/post/</guid>
+      <guid>https://cade-nohl.github.io/tags/post/</guid>
       <description></description>
     </item>
     
